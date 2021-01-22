@@ -5,4 +5,4 @@
 
 Цель работы: Определить фактическую доходность облигаций на российском рынке.
 
-Полный текст работы:  
+Полный текст работы:  https://github.com/myupeshkov/model_risk/blob/main/Model_risk_project.ipynb
